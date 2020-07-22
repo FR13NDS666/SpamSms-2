@@ -1,5 +1,5 @@
 #!/usr/bin/python2
-# Author : ./FUKUR0-3XP
+# Author : ./FR13NDS
 # Team : Black Coders Anonymous Satanic Exploiter Team ( BCA - X666X )
 # Apa Liat Liat ? Mau Recode ? >_<
 # Recode Tidak Akan Membuat Anda Menjadi Pencipta Kode :3
